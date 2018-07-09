@@ -1,4 +1,4 @@
-# DatabaseQueryProcessing
+# Database Query Processing
 
 This project processes SQL queries and performs basic operations such as JOINS, SELECT, WHERE CLAUSE operations etc.
 
